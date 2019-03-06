@@ -1,0 +1,5 @@
+.*
+!.gitignore
+**/*.py[cod]
+random.*
+*.feather
